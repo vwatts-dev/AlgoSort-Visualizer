@@ -1,9 +1,9 @@
 # AlgoSort Visualizer by vwatts
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./docs/LICENSE)
-![JavaScript](https://img.shields.io/badge/Language-JavaScript-yellow?logo=javascript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white)
+[![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5&logoColor=white)](./index.html)
+[![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white)](./script.js)
+[![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3&logoColor=white)](./style.css)
 
 AlgoSort Visualizer is a simple and interactive tool designed to help users understand and visualize sorting algorithms better. It provides real-time animations of popular algorithms such as Bubble Sort, Merge Sort, Quick Sort, and more, allowing users to clearly observe comparisons, swaps, and algorithm behavior step by step. This project aims to make learning data structures and algorithms more intuitive and engaging through visual representation.
 
